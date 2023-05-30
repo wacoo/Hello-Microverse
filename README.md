@@ -1,5 +1,5 @@
 # Hello Microverse
-This repository the first project for Microverse Fullstack Web Deveopment. The repository is created on the process of learning about good documentation, commit message, readme file, use of linters and pull requests. 
+This repository is the first project for Microverse Fullstack Web Deveopment. The repository is created on the process of learning how to create branch and pull requests. 
 ## Built With
 ### Tech Stack
 HTML and CSS
@@ -13,5 +13,7 @@ How to work in a `git branch`
 
 How to set up `linter` for HTML and CSS
 
-How to create a pull request
+How to check errors with a `linter` and fix the code 
+
+How to create a `pull request`
 
