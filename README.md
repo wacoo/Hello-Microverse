@@ -5,7 +5,7 @@ This repository the first project for Microverse Fullstack Web Deveopment. The r
 HTML and CSS
 ## Goal of the Project
 ### Learn:
-How to add file and directories to `.gitignore file`
+How to add file and directories to `.gitignore` file
 
 How to create `git branch` with acceptable name
 
