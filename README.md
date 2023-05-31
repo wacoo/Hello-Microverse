@@ -78,8 +78,8 @@
 
 👤 **Author**
 
-- GitHub: [@githubhandle](https://github.com/wacoo)
-- Twitter: [@twitterhandle](https://twitter.com/wabaham9)
+- GitHub: [@wacoo](https://github.com/wacoo)
+- Twitter: [@wabaham9](https://twitter.com/wabaham9)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/wondmagegn-abriham-b867289a)
 
 
