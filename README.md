@@ -15,20 +15,13 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
@@ -43,8 +36,8 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> HTML
-> CSS
+- HTML
+- CSS
 
 <details>
   <summary>Client</summary>
@@ -52,48 +45,20 @@
     <li><a href="">HTML/CSS</a></li>
   </ul>
 </details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="">None</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="">None</a></li>
-  </ul>
-</details>
-
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-
-> Describe between 1-3 key features of the application.
 
 - **Simple `HTML` Page**
 - **`CSS` File with Backgroud Color**
 - **A `.gitignore` File**
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
-
-- Coming Soon
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-- To get a local copy up and running, follow these steps.
+**To get a local copy up and running:**
+- Open index.html with a Web Browser
 
 ### Prerequisites
 
@@ -103,31 +68,13 @@
 ### Setup
 
 **Clone this repository to your desired folder:**
->1. Open Terminal or CMD
-> 2. Use `cd` command to go to your desired folder (`cd C:\Users\...`)
-> 3. Type git clone [link-to-the-repo]
+- Use the following command to navigate to your desired folder:
+> `cd C:\Users\...`
+- Run the following code to clone the repository to you desired folder:
+> `git clone https://github.com/wacoo/Hello-Microverse`
 
-### Install
-
-**Install this project with:**
-
-None
-
-### Usage
-
-**To run the project, execute the following command:**
-
-None
-
-### Run tests
-
-**To run tests, run the following command:**
-
-None
-
-### Deployment
-
-**You can deploy this project using:**
+- Run the following command to move to your cloned folder:
+> `cd Hello-Microverse`
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -136,11 +83,11 @@ None
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Author1**
+👤 **Author**
 
 - GitHub: [@githubhandle](https://github.com/wacoo)
 - Twitter: [@twitterhandle](https://twitter.com/wabaham9)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/wondmagegn-abriham-b867289a)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -148,19 +95,11 @@ None
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-- None
-
+- There is a plan to add a homepage
+- There will be a login functionality in the future
+- A contact page with a form to accepts requests from users 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
-
-## 🤝 Contributing <a name="contributing"></a>
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- SUPPORT -->
 
@@ -180,16 +119,9 @@ I want to acknowladge Microverse reviewers and their effort in reviewing the pro
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-- None
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
-- None
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+Click [Here](MIT.md) to see the license.
