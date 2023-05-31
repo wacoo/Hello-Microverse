@@ -38,13 +38,6 @@
 
 - HTML
 - CSS
-
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="">HTML/CSS</a></li>
-  </ul>
-</details>
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
